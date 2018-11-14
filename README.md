@@ -1,5 +1,5 @@
 # Date-Algorithm
-Getting input, in form of YYYY/MM/DD, it outputs a the date plus the condition
+Getting input, in form of YYYY/MM/DD, it outputs a the date plus the condition\
 \
 Conditions:\
 a - Add 15 days\
